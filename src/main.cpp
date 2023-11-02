@@ -46,7 +46,7 @@ int main(int argc, char* args[]) {
   }
 
   window = SDL_CreateWindow(
-			    "hello_sdl2",
+			    "sdl_mandelbrot",
 			    SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED,
 			    SCREEN_WIDTH, SCREEN_HEIGHT,
 			    SDL_WINDOW_SHOWN
